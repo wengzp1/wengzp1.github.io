@@ -25,7 +25,7 @@ IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT(T-IM),2025.[[PDF](https://i
 
 Zhipeng Weng, Xiaopeng Liu, Ce Liu, Xingyuan Guo, Yukai Shi, and Liang Lin, Fellow, IEEE.
 
-IEEE SENSORS JOURNAL,2025.[[PDF(Comming Soon.)()]] [[Code](https://github.com/wengzp1/GRSL)] 
+IEEE SENSORS JOURNAL,2025.PDF(Comming Soon.) [[Code](https://github.com/wengzp1/GRSL)] 
 
 ### 3.CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond.
 
