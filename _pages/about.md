@@ -12,15 +12,6 @@ I received my Bachelor’s degree from the School of Information Engineering, Gu
 
 [Email](mailto:wzpp24@foxmail.com) / [Github](https://github.com/wengzp1) 
 
----
-permalink: /
-title: "Publications"
-excerpt: "Publications"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 ###Scaling Up Single Image Dehazing Algorithm by Cross-Data Vision Alignment for Richer Representation Learning and Beyond.
 Yukai Shi , Zhipeng Weng , Yupei Lin , Cidan Shi , Xingyuan Guo , Xiaojun Yang ,and Liang Lin , Fellow, IEEE.
