@@ -18,7 +18,7 @@ I received my Bachelor’s degree from the School of Information Engineering, Gu
 
 Yukai Shi , Zhipeng Weng , Yupei Lin , Cidan Shi , Xingyuan Guo , Xiaojun Yang ,and Liang Lin , Fellow, IEEE.
 
-IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT(T-IM),2025.[[PDF](https://pan.baidu.com/s/1HPFKJaZ79dsSXOpXxie-7Q?pwd=1234)] [[Code](https://github.com/wengzp1/ScaleUpDehazing)] 
+IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT(T-IM),2025.[[PDF](https://ieeexplore.ieee.org/document/10974513)] [[Code](https://github.com/wengzp1/ScaleUpDehazing)] 
 
 
 ### 2.DroneSR: Rethinking Few-shot Thermal Image Super-Resolution from Drone-based Perspective.
@@ -31,7 +31,7 @@ IEEE SENSORS JOURNAL,2025.[[PDF(Comming Soon.)()]] [[Code](https://github.com/we
 
 Yukai Shi , Cidan Shi , Zhipeng Weng, Yin Tian, Xiaoyu Xian , Member, IEEE, and Liang Lin , Fellow, IEEE.
 
-IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY,2025.
+IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY,2025.[[PDF](https://ieeexplore.ieee.org/document/10900459)]
 
 
 ## Educations
