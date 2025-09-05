@@ -36,6 +36,7 @@ Yukai Shi , Member, IEEE, Cidan Shi , Zhipeng Weng, Yin Tian, Xiaoyu Xian , Memb
 ## Educations
 
 2023.09 - now, Master, School of Information Engineering, Guangdong University of Technology.
+
 2019.09 - 2023.06, Undergraduate, School of Information Engineering, Guangdong University of Technology.
 
 ## Internship
