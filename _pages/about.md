@@ -33,4 +33,16 @@ Yukai Shi , Member, IEEE, Cidan Shi , Zhipeng Weng, Yin Tian, Xiaoyu Xian , Memb
 ### IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY,2025.
 
 
+## Educations
+
+2023.09 - now, Master, School of Information Engineering, Guangdong University of Technology.
+2019.09 - 2023.06, Undergraduate, School of Information Engineering, Guangdong University of Technology.
+
+## Internship
+
+2025.08 - now, I am doing an internship at China Southern Power Grid, which is expected to last for six months. During this period, I will be working on a project that integrates reactors with artificial intelligence.
+
+
+
+
 
