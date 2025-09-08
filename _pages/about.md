@@ -29,7 +29,7 @@ IEEE SENSORS JOURNAL,2025.PDF(Comming Soon.) [[Code](https://github.com/wengzp1/
 
 ### 3.CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond.
 
-Yukai Shi , Cidan Shi , Zhipeng Weng, Yin Tian, Xiaoyu Xian , Member, IEEE, and Liang Lin.
+Yukai Shi , Cidan Shi , Zhipeng Weng, Yin Tian, Xiaoyu Xian, and Liang Lin.
 
 IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY,2025.[[PDF](https://ieeexplore.ieee.org/document/10900459)]
 
