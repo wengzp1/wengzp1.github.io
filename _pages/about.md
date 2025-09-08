@@ -16,20 +16,20 @@ I received my Bachelor’s degree from the School of Information Engineering, Gu
 
 ### 1.Scaling Up Single Image Dehazing Algorithm by Cross-Data Vision Alignment for Richer Representation Learning and Beyond.
 
-Yukai Shi , Zhipeng Weng , Yupei Lin , Cidan Shi , Xingyuan Guo , Xiaojun Yang ,and Liang Lin , Fellow, IEEE.
+Yukai Shi , Zhipeng Weng , Yupei Lin , Cidan Shi , Xingyuan Guo , Xiaojun Yang ,and Liang Lin.
 
 IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT(T-IM),2025.[[PDF](https://ieeexplore.ieee.org/document/10974513)] [[Code](https://github.com/wengzp1/ScaleUpDehazing)] 
 
 
 ### 2.DroneSR: Rethinking Few-shot Thermal Image Super-Resolution from Drone-based Perspective.
 
-Zhipeng Weng, Xiaopeng Liu, Ce Liu, Xingyuan Guo, Yukai Shi, and Liang Lin, Fellow, IEEE.
+Zhipeng Weng, Xiaopeng Liu, Ce Liu, Xingyuan Guo, Yukai Shi, and Liang Lin.
 
 IEEE SENSORS JOURNAL,2025.PDF(Comming Soon.) [[Code](https://github.com/wengzp1/GRSL)] 
 
 ### 3.CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond.
 
-Yukai Shi , Cidan Shi , Zhipeng Weng, Yin Tian, Xiaoyu Xian , Member, IEEE, and Liang Lin , Fellow, IEEE.
+Yukai Shi , Cidan Shi , Zhipeng Weng, Yin Tian, Xiaoyu Xian , Member, IEEE, and Liang Lin.
 
 IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY,2025.[[PDF](https://ieeexplore.ieee.org/document/10900459)]
 
