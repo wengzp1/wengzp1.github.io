@@ -12,6 +12,15 @@ I received my Bachelor’s degree from the School of Information Engineering, Gu
 
 [Email](mailto:wzpp24@foxmail.com) / [Github](https://github.com/wengzp1) 
 
+## Educations
+
+2023.09 - now, Master, School of Information Engineering, Guangdong University of Technology.
+
+2019.09 - 2023.06, Undergraduate, School of Information Engineering, Guangdong University of Technology.
+
+## Internship
+
+2025.08 - now, I am doing an internship at China Southern Power Grid, which is expected to last for six months. During this period, I will be working on a project that integrates reactors with artificial intelligence.
 
 <h2>Publications</h2>
 
@@ -34,16 +43,5 @@ I received my Bachelor’s degree from the School of Information Engineering, Gu
         (<sup>†</sup>Equal contribution)<br>
         <em>IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</em>, 2025. [<a href="(https://ieeexplore.ieee.org/document/10900459">PDF</a>] [<a href="#">Code</a>]
     </li>
-
-## Educations
-
-2023.09 - now, Master, School of Information Engineering, Guangdong University of Technology.
-
-2019.09 - 2023.06, Undergraduate, School of Information Engineering, Guangdong University of Technology.
-
-## Internship
-
-2025.08 - now, I am doing an internship at China Southern Power Grid, which is expected to last for six months. During this period, I will be working on a project that integrates reactors with artificial intelligence.
-
 
 
