@@ -33,13 +33,13 @@ I received my Bachelor’s degree from the School of Information Engineering, Gu
     
     <li style="margin-bottom: 16px;">
         <strong>DroneSR: Rethinking Few-shot Thermal Image Super-Resolution from Drone-based Perspective</strong><br>
-        </strong>Zhipeng Weng</strong>, Xiaopeng Liu, Ce Liu, Xingyuan Guo, Yukai Shi, and Liang Lin.<br>
+        <strong>Zhipeng Weng</strong>, Xiaopeng Liu, Ce Liu, Xingyuan Guo, Yukai Shi, and Liang Lin.<br>
         <em>IEEE SENSORS JOURNAL</em>, 2025. [<a href="#">PDF</a>] [<a href="https://github.com/wengzp1/GRSL">Code</a>]
     </li>
     
     <li style="margin-bottom: 16px;">
         <strong>CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond.</strong><br>
-       YukaiShi<sup>†</sup>, CidanShi<sup>†</sup>, </strong>Zhipeng Weng</strong>, Yin Tian, Xiaoyu Xian, Liang Lin<br>
+       YukaiShi<sup>†</sup>, CidanShi<sup>†</sup>, <strong>Zhipeng Weng</strong>, Yin Tian, Xiaoyu Xian, Liang Lin<br>
         (<sup>†</sup>Equal contribution)<br>
         <em>IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</em>, 2025. [<a href="(https://ieeexplore.ieee.org/document/10900459">PDF</a>] [<a href="#">Code</a>]
     </li>
