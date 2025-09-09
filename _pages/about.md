@@ -12,27 +12,28 @@ I received my Bachelor’s degree from the School of Information Engineering, Gu
 
 [Email](mailto:wzpp24@foxmail.com) / [Github](https://github.com/wengzp1) 
 
-## Publications
 
-### 1.Scaling Up Single Image Dehazing Algorithm by Cross-Data Vision Alignment for Richer Representation Learning and Beyond.
+<h2>Publications</h2>
 
-Yukai Shi , Zhipeng Weng , Yupei Lin , Cidan Shi , Xingyuan Guo , Xiaojun Yang ,and Liang Lin.
-
-IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT(T-IM),2025.[[PDF](https://ieeexplore.ieee.org/document/10974513)] [[Code](https://github.com/wengzp1/ScaleUpDehazing)] 
-
-
-### 2.DroneSR: Rethinking Few-shot Thermal Image Super-Resolution from Drone-based Perspective.
-
-Zhipeng Weng, Xiaopeng Liu, Ce Liu, Xingyuan Guo, Yukai Shi, and Liang Lin.
-
-IEEE SENSORS JOURNAL,2025.PDF(Comming Soon.) [[Code](https://github.com/wengzp1/GRSL)] 
-
-### 3.CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond.
-
-Yukai Shi , Cidan Shi , Zhipeng Weng, Yin Tian, Xiaoyu Xian, and Liang Lin.
-
-IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY,2025.[[PDF](https://ieeexplore.ieee.org/document/10900459)]
-
+<ul style="list-style-type: disc; margin-top: 0; padding-left: 20px;">
+    <li style="margin-bottom: 16px;">
+        <strong>Scaling Up Single Image Dehazing Algorithm by Cross-Data Vision Alignment for Richer Representation Learning and Beyond</strong><br>
+        Yukai Shi , Zhipeng Weng , Yupei Lin , Cidan Shi , Xingyuan Guo , Xiaojun Yang ,and Liang Lin.<br>
+        <em>IEEE Transactions on Instrumentation and Measurement (T-IM)</em>, 2025. [<a href="https://ieeexplore.ieee.org/document/10974513">PDF</a>] [<a href="https://github.com/wengzp1/ScaleUpDehazing">Code</a>]
+    </li>
+    
+    <li style="margin-bottom: 16px;">
+        <strong>DroneSR: Rethinking Few-shot Thermal Image Super-Resolution from Drone-based Perspective</strong><br>
+        Zhipeng Weng, Xiaopeng Liu, Ce Liu, Xingyuan Guo, Yukai Shi, and Liang Lin.<br>
+        <em>IEEE SENSORS JOURNAL</em>, 2025. [<a href="#">PDF</a>] [<a href="https://github.com/wengzp1/GRSL">Code</a>]
+    </li>
+    
+    <li style="margin-bottom: 16px;">
+        <strong>CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond.</strong><br>
+       YukaiShi<sup>†</sup>, CidanShi<sup>†</sup>, Zhipeng Weng, Yin Tian, Xiaoyu Xian, Liang Lin<br>
+        (<sup>†</sup>Equal contribution)<br>
+        <em>IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</em>, 2025. [<a href="(https://ieeexplore.ieee.org/document/10900459">PDF</a>] [<a href="#">Code</a>]
+    </li>
 
 ## Educations
 
@@ -43,32 +44,6 @@ IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY,2025.[[PDF](https
 ## Internship
 
 2025.08 - now, I am doing an internship at China Southern Power Grid, which is expected to last for six months. During this period, I will be working on a project that integrates reactors with artificial intelligence.
-
-
-<h2>Demo</h2>
-
-<ul style="list-style-type: disc; margin-top: 0; padding-left: 20px;">
-    <li style="margin-bottom: 16px;">
-        <strong>NiteDR: Nighttime Image De-Raining with Cross-View Sensor Cooperative Learning for Dynamic Driving Scenes</strong><br>
-        CidanShi, Liuhuang Fang, Han Wu, Xiaoyu Xian, Yukai Shi, Liang Lin<br>
-        <em>IEEE Transactions on Multimedia (T-MM)</em>, 2024. [<a href="#">PDF</a>] [<a href="#">Code</a>]
-    </li>
-    
-    <li style="margin-bottom: 16px;">
-        <strong>CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond</strong><br>
-        YukaiShi<sup>†</sup>, CidanShi<sup>†</sup>, Zhipeng Weng, Yin Tian, Xiaoyu Xian, Liang Lin<br>
-        (<sup>†</sup>Equal contribution)<br>
-        <em>IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</em>, 2025. [<a href="#">PDF</a>] [<a href="#">Code</a>]
-    </li>
-    
-    <li style="margin-bottom: 16px;">
-        <strong>Scaling Up Single Image Dehazing Algorithm by Cross-Data Vision Alignment for Richer Representation Learning and Beyond</strong><br>
-        Yukai Shi, Zhipeng Weng, Yupei Lin, CidanShi, Xingyuan Guo, Xiaojun Yang, Liang Lin<br>
-        <em>IEEE Transactions on Instrumentation and Measurement (T-IM)</em>, 2025. [<a href="#">PDF</a>] [<a href="#">Code</a>]
-    </li>
-</ul>
-
-
 
 
 
