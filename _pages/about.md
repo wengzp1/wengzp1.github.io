@@ -45,6 +45,30 @@ IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY,2025.[[PDF](https
 2025.08 - now, I am doing an internship at China Southern Power Grid, which is expected to last for six months. During this period, I will be working on a project that integrates reactors with artificial intelligence.
 
 
+<h2>Demo</h2>
+
+<ul style="list-style-type: disc; margin-top: 0; padding-left: 20px;">
+    <li style="margin-bottom: 16px;">
+        <strong>NiteDR: Nighttime Image De-Raining with Cross-View Sensor Cooperative Learning for Dynamic Driving Scenes</strong><br>
+        CidanShi, Liuhuang Fang, Han Wu, Xiaoyu Xian, Yukai Shi, Liang Lin<br>
+        <em>IEEE Transactions on Multimedia (T-MM)</em>, 2024. [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </li>
+    
+    <li style="margin-bottom: 16px;">
+        <strong>CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond</strong><br>
+        YukaiShi<sup>†</sup>, CidanShi<sup>†</sup>, Zhipeng Weng, Yin Tian, Xiaoyu Xian, Liang Lin<br>
+        (<sup>†</sup>Equal contribution)<br>
+        <em>IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)</em>, 2025. [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </li>
+    
+    <li style="margin-bottom: 16px;">
+        <strong>Scaling Up Single Image Dehazing Algorithm by Cross-Data Vision Alignment for Richer Representation Learning and Beyond</strong><br>
+        Yukai Shi, Zhipeng Weng, Yupei Lin, CidanShi, Xingyuan Guo, Xiaojun Yang, Liang Lin<br>
+        <em>IEEE Transactions on Instrumentation and Measurement (T-IM)</em>, 2025. [<a href="#">PDF</a>] [<a href="#">Code</a>]
+    </li>
+</ul>
+
+
 
 
 
